@@ -1,0 +1,30 @@
+.form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+.form-container {
+  height: 100vh;
+}
+.step-container {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.details {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+.details div {
+  color: #333;
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}

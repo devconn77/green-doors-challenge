@@ -1,0 +1,20 @@
+.button {
+  /* Your button styles go here */
+  background-color: #007bff;
+  color: #fff;
+  padding: 20px 60px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  width: 200px;
+}
+
+.button:hover {
+  /* Your button hover styles go here */
+  background-color: #0056b3;
+}
+
+.button:active {
+  /* Your button active styles go here */
+  background-color: #003d80;
+}
